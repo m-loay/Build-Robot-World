@@ -27,7 +27,7 @@ The **Build-Robot-World** lab part of RoboND Gazebo Basics lesson.
 
 #### Step 1 Clone the lab folder in /home/workspace/
 ```
-$ 
+$ git clone git@github.com:m-loay/Build-Robot-World.git
 ```
 
 #### Step 2 Compile the code
@@ -51,9 +51,8 @@ $ gazebo roboWorld
 ### Output
 The hello world message and the two-wheeled robot inside a Gazebo World should both launch as follow: 
 
-![alt text](images/output_0.png)
+![alt text](images/output.png)
 
-![alt text](images/output_1.jpg)
 
 
  ## Project Rubric  
